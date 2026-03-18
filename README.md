@@ -22,7 +22,7 @@
 body{
 /* "body" se refiere a todo el contenido visible de la página */
 
-  background-color: white;
+  background-color: #3726BD;
   /* Define que el fondo de toda la página sea blanco */
 
   color: black;
